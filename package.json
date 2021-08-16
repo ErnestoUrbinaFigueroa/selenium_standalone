@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ErnestoUrbinaFigueroa/selenium_standalone#readme",
   "dependencies": {
+    "chromedriver": "^92.0.1",
     "selenium-standalone": "^7.1.0"
   }
 }
