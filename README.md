@@ -10,3 +10,5 @@ Si faltan los drivers en tu pc descomprimir la carpeta .selenium.zip y copiar lo
 ```
 C:\Users\"user"\AppData\Roaming\npm\node_modules\selenium-standalone\.selenium
 ```
+
+![Image of drivers file](https://github.com/ErnestoUrbinaFigueroa/selenium_standalone/blob/main/images/drivers.png)
